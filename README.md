@@ -72,8 +72,8 @@
 ## 📝 프로젝트 산출물
 - [개발환경](https://wandering-swan-9fa.notion.site/43a462ff4347423ea785941502ca333a?pvs=4)
 - [요구사항 명세서](https://wandering-swan-9fa.notion.site/e83234e536a3495594dd912e9fc82147?pvs=4)
-- [erd](./img/app_erd.png)
-- [erd](./img/wep_erd.png)
+- [앱 erd](./img/app_erd.png)
+- [웹 erd](./img/wep_erd.png)
 - [api 연동 규격서](https://wandering-swan-9fa.notion.site/API-523be369856b4bbfb9a425ba2a324633?pvs=4)
 - [목업](./etc/Readme_images/목업.png)
 - [포팅메뉴얼](./exec/희소식%20포팅매뉴얼.pdf)
