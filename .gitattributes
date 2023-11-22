@@ -1,0 +1,4 @@
+***.exe filter=lfs diff=lfs merge=lfs -text
+GoodNews/app/src/main/assets/testm.zip filter=lfs diff=lfs merge=lfs -text
+GoodNews/app/src/main/res/raw/korea_7_13.sqlite filter=lfs diff=lfs merge=lfs -text
+GoodNews/app/release/app-release.apk filter=lfs diff=lfs merge=lfs -text
