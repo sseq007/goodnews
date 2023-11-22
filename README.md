@@ -22,7 +22,7 @@
 ## 👪 개발 멤버 소개
 
 <table> <tr> 
-<td height="140px" align="center"> <a href="https://github.com/sseq007"> <img src="https://avatars.githubusercontent.com/u/63395794?v=4" width="120px" /> <br><br> 👑 이은경 <br>(BackEnd)<br/> </a> <br></td>  
+<td height="140px" align="center"> <a href="https://github.com/rileyleee"> <img src="https://avatars.githubusercontent.com/u/116135258?v=4" width="120px" /> <br><br> 👑 이은경 <br>(BackEnd)<br/> </a> <br></td>  
 <td height="140px" align="center"> <a href="https://github.com/kimnayeon16"> <img src="https://avatars.githubusercontent.com/u/87288958?v=4" width="120px" /> <br><br> 😶 김나연 <br>(FrontEnd) </a> <br></td> 
 <td height="140px" align="center"> <a href="https://github.com/Kim-Yejinn"> <img src="https://avatars.githubusercontent.com/u/123815209?v=4" width="120px" /> <br><br> 🙄 김예진 <br>(BackEnd)<br/> </a> <br></td> 
 <td height="140px" align="center"> <a href="https://github.com/seondy"> <img src="https://avatars.githubusercontent.com/u/122539170?v=4" width="120px" /> <br><br> 😆 선다영 <br>(FrontEnd) </a> <br></td>
