@@ -5,15 +5,15 @@
 <br/>
 
 <div align="center">
-  <h1>BookWave</h1> 
+  <h1>희소식</h1> 
   
-수많은 책들 사이에서 어떤 책을 읽어야할 지 감이 잡히지 않을 때,
+지진,전쟁과 같은 재난 상황에서 통신이 끊겼을 경우 ,
 
-베스트 셀러 추천이 아닌 색다른 기준으로 추천 받고 싶을 때,
+가족들과 연락 또는 주변 사람들에게 문자를 보내서 도움을 받고 싶을 때,
 
-다양하게 느끼는 감정들을 기록하고 공유하고 싶을 때, 
+모스부호나 구조요청를 통해 구조도움을 받고 싶을 때, 
 
-저희는 이와 같은 상황을 위해 “북웨이브” 서비스를 고안했습니다.
+저희는 이와 같은 상황을 위해 “희소식” 서비스를 고안했습니다.
 </div>
 
 <br>
@@ -21,14 +21,20 @@
 
 ## 👪 개발 멤버 소개
 
-<table> <tr> <td height="120px" align="center"> <a href="https://github.com/sseq007"> <img src="https://avatars.githubusercontent.com/u/63395794?v=4" width="120px" /> <br><br> 👑 이은경 <br>(BackEnd)<br/> </a> <br></td>  <td height="140px" align="center"> <a href="https://github.com/kimnayeon16"> <img src="https://avatars.githubusercontent.com/u/76714384?v=4" width="120px" /> <br><br> 😶 김나연 <br>(FrontEnd) </a> <br></td> <td height="140px" align="center"> <a href="https://github.com/Kim-Yejinn"> <img src="https://avatars.githubusercontent.com/u/77240765?v=4" width="120px" /> <br><br> 🙄 김예진 <br>(BackEnd)<br/> </a> <br></td> <td height="140px" align="center"> <a href="https://github.com/seondy"> <img src="https://avatars.githubusercontent.com/u/90392777?v=4" width="120px" /> <br><br> 😆 선다영 <br>(FrontEnd) </a> <br></td><td height="140px" align="center"> <a href="https://github.com/sseq007"> <img src="https://avatars.githubusercontent.com/u/122436486?v=4" width="120px" /> <br><br> 😁 신준호 <br>(BackEnd) </a> <br></td> <td height="140px" align="center"> <a href="https://github.com/elle6044"> <img src="https://avatars.githubusercontent.com/u/110223414?v=4" width="120px" /> <br><br> 🙂 이준용 <br>(BackEnd) </a> <br></td> </tr> 
+<table> <tr> 
+<td height="140px" align="center"> <a href="https://github.com/sseq007"> <img src="https://avatars.githubusercontent.com/u/63395794?v=4" width="120px" /> <br><br> 👑 이은경 <br>(BackEnd)<br/> </a> <br></td>  
+<td height="140px" align="center"> <a href="https://github.com/kimnayeon16"> <img src="https://avatars.githubusercontent.com/u/87288958?v=4" width="120px" /> <br><br> 😶 김나연 <br>(FrontEnd) </a> <br></td> 
+<td height="140px" align="center"> <a href="https://github.com/Kim-Yejinn"> <img src="https://avatars.githubusercontent.com/u/123815209?v=4" width="120px" /> <br><br> 🙄 김예진 <br>(BackEnd)<br/> </a> <br></td> 
+<td height="140px" align="center"> <a href="https://github.com/seondy"> <img src="https://avatars.githubusercontent.com/u/122539170?v=4" width="120px" /> <br><br> 😆 선다영 <br>(FrontEnd) </a> <br></td>
+<td height="140px" align="center"> <a href="https://github.com/sseq007"> <img src="https://avatars.githubusercontent.com/u/63395794?v=4" width="120px" /> <br><br> 😁 신준호 <br>(BackEnd) </a> <br></td> 
+<td height="140px" align="center"> <a href="https://github.com/elle6044"> <img src="https://avatars.githubusercontent.com/u/123047819?v=4" width="120px" /> <br><br> 🙂 이준용 <br>(BackEnd) </a> <br></td> </tr> 
 </table>
 
 <br />
 
 ## 📆 프로젝트 기간
 
-### 23.08.21. ~ 23.10.06
+### 23.10.09. ~ 23.11.17
 
 <br />
 
