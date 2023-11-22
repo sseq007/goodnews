@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/37caffd7-a3c7-4a48-a168-eb781605532a" width="60%"/>
+  <img src="./img/goodnews_logo.png" width="20%"/>
 </div>
 
 <br/>
@@ -40,16 +40,16 @@
 
 ## 기술 스택
 
-| FrontEnd                | BackEnd            | DATA            | DB           | CI/CD                     | 협업툴  |
+| FrontEnd                | BackEnd            | Android            | DB           | CI/CD                     | 협업툴  |
 | ----------------------- | ------------------ | --------------- | ------------ | ------------------------- | ------- |
-| Node 18.17.1            | Java JDK 11        | Python 3.9      | MySQL 8.0.33 | AWS EC2(Ubuntu 20.04 LTS) | GitLab  |
-| NPM 9.6.7               | Spring Boot 2.7.15 | FastApi 0.103.1 | Redis 7.0.12 | Nginx 1.25.1              | Jira    |
-| Vite + Typescript + SWC | Gradle 8.2.1       | Selenium 4.13.0 |              | Docker 24                 | Notion  |
-| React 18.2.0            | Lombok             | pandas 1.5.3    |              | Jenkins                   | figma   |
-| Recoil                  | Spring Security    |                 |              |                           | Swagger |
+| Node 18.16.1            | Java JDK 11        | CompileSDK 34   | MySQL 8.0.33 | AWS EC2(Ubuntu 20.04 LTS) | GitLab  |
+| NPM 9.6.7               | Spring Boot 2.7.17 | TargetSDK  33   | Redis 7.0.12 | Nginx 1.25.1              | Jira    |
+| Typescript + TailWindCss| Gradle 8.3         | MinSDK 30       | MongoDB 7.0.2| Docker 24                 | Notion  |
+| React 18.2.0            | Lombok             | Java 8          |              | Jenkins                   | figma   |
+| Recoil                  | Spring Security    | Realm           |              |                           | Swagger |
 | React-query             | JJWT 0.9.1         |                 |              |                           | Postman |
-| Framer-motion           |                    |                 |              |                           |         |
-| ChakraUI                |                    |                 |              |                           |         |
+
+
 
 <br>
 
