@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/37caffd7-a3c7-4a48-a168-eb781605532a" width="60%"/>
+  <img src="./img/goodnews_logo.png" width="20%"/>
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
 ## 👪 개발 멤버 소개
 
 <table> <tr> 
-<td height="140px" align="center"> <a href="https://github.com/sseq007"> <img src="https://avatars.githubusercontent.com/u/63395794?v=4" width="120px" /> <br><br> 👑 이은경 <br>(BackEnd)<br/> </a> <br></td>  
+<td height="140px" align="center"> <a href="https://github.com/rileyleee"> <img src="https://avatars.githubusercontent.com/u/116135258?v=4" width="120px" /> <br><br> 👑 이은경 <br>(BackEnd)<br/> </a> <br></td>  
 <td height="140px" align="center"> <a href="https://github.com/kimnayeon16"> <img src="https://avatars.githubusercontent.com/u/87288958?v=4" width="120px" /> <br><br> 😶 김나연 <br>(FrontEnd) </a> <br></td> 
 <td height="140px" align="center"> <a href="https://github.com/Kim-Yejinn"> <img src="https://avatars.githubusercontent.com/u/123815209?v=4" width="120px" /> <br><br> 🙄 김예진 <br>(BackEnd)<br/> </a> <br></td> 
 <td height="140px" align="center"> <a href="https://github.com/seondy"> <img src="https://avatars.githubusercontent.com/u/122539170?v=4" width="120px" /> <br><br> 😆 선다영 <br>(FrontEnd) </a> <br></td>
@@ -40,16 +40,16 @@
 
 ## 기술 스택
 
-| FrontEnd                | BackEnd            | DATA            | DB           | CI/CD                     | 협업툴  |
+| FrontEnd                | BackEnd            | Android            | DB           | CI/CD                     | 협업툴  |
 | ----------------------- | ------------------ | --------------- | ------------ | ------------------------- | ------- |
-| Node 18.17.1            | Java JDK 11        | Python 3.9      | MySQL 8.0.33 | AWS EC2(Ubuntu 20.04 LTS) | GitLab  |
-| NPM 9.6.7               | Spring Boot 2.7.15 | FastApi 0.103.1 | Redis 7.0.12 | Nginx 1.25.1              | Jira    |
-| Vite + Typescript + SWC | Gradle 8.2.1       | Selenium 4.13.0 |              | Docker 24                 | Notion  |
-| React 18.2.0            | Lombok             | pandas 1.5.3    |              | Jenkins                   | figma   |
-| Recoil                  | Spring Security    |                 |              |                           | Swagger |
+| Node 18.16.1            | Java JDK 11        | CompileSDK 34   | MySQL 8.0.33 | AWS EC2(Ubuntu 20.04 LTS) | GitLab  |
+| NPM 9.6.7               | Spring Boot 2.7.17 | TargetSDK  33   | Redis 7.0.12 | Nginx 1.25.1              | Jira    |
+| Typescript + TailWindCss| Gradle 8.3         | MinSDK 30       | MongoDB 7.0.2| Docker 24                 | Notion  |
+| React 18.2.0            | Lombok             | Java 8          |              | Jenkins                   | figma   |
+| Recoil                  | Spring Security    | Realm           |              |                           | Swagger |
 | React-query             | JJWT 0.9.1         |                 |              |                           | Postman |
-| Framer-motion           |                    |                 |              |                           |         |
-| ChakraUI                |                    |                 |              |                           |         |
+
+
 
 <br>
 
