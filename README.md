@@ -67,116 +67,14 @@
 
 ### 1. 메인화면
 
-<div align="center">
-  <br />
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/56c48e36-9065-40bc-9afe-147306db8085" width="70%"/>
-  <br />
-</div>
-
-### 2. 회원가입 / 로그인
-
-* 카카오 소셜 로그인으로 회원가입을 진행합니다.
-* 최초 로그인 시 기본정보를 입력받습니다.
-
-<div align="center">
-  <br />
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/ce279757-8afc-4df0-a340-3ac4382f5da7" width="70%"/>
-  <br />
-</div>
-
-
-### 3. 회원정보 수정
-
-* 프로필 이미지와 닉네임을 변경할 수 있습니다.
-
-<div align="center">
-  <br />
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/5e86fe3a-96d3-444a-bb76-782c932ab1c1" width="70%"/>
-  <br />
-</div>
-
-
-### 4. 도서 추천 및 일기작성
-* 그날의 일기를 작성하고 일기를 통해 그날의 감정을 분류합니다.
-* 분류된 감정을 기준으로 그날의 도서를 추천해줍니다.
-* 읽고 싶은 감정별 도서를 추천받을 수 있습니다.
-* 최근에 읽은 도서와 비슷한 도서를 추천받을 수 있습니다.
-* 자신의 BBTI와 같은 사람들이 많이 읽은 도서를 추천받을 수 있습니다.
-* 장르별 도서를 추천받을 수 있습니다.
-
-<div align="center">
-  <br />
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/0c9ecc9f-a570-4c8d-98ac-d2d7bdc517c1" width="70%"/>
-  <br />
-</div>
-
-
-### 5. 독서기록 작성
-* 자신이 읽는중이거나 읽은 도서를 선택해 독서기록을 작성할 수 있습니다.
-
-<div align="center">
-  <br />
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/1670a38c-40fa-4b05-9792-593d93e204f5" width="70%"/>
-  <br />
-</div>
-
-### 6. 피드
-* 자신이 팔로우하거나 자신과 BBTI가 같은 회원이 남긴 독서기록을 볼 수 있습니다.
-
-<div align="center">
-  <br />
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/f1609732-3392-4eea-a229-b34acd4a3583" width="70%"/>
-  <br />
-</div>
-
-### 7. 피드 상세보기
-* 피드 클릭 시 피드 상세보기를 할 수 있습니다.
-* 좋아요 및 댓글작성을 할 수 있습니다.
-
-<div align="center">
-  <br />
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/c494a843-477c-46ed-972a-2107cf013d87" width="70%"/>
-  <br />
-</div>
-
-### 8. 책장
-* 책장에 자신이 읽고 싶은 도서 , 읽는중인 도서 , 읽은 도서를 저장할 수 있습니다.
-
-<div align="center">
-  <br />
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/09950f0d-668e-4e49-947c-ee160c21f9b2" width="70%"/>
-  <br />
-</div>
-
-### 9. 도서 검색
-* 도서 제목, 작가 , 카테고리를 기반으로 도서를 검색 할 수 있습니다.
-
-<div align="center">
-  <br />
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/0509c5fb-1b38-473b-9543-1ee74355dfcc" width="70%"/>
-  <br />
-</div>
-
-### 10. 도서 상세
-* 도서 상세정보를 조회할 수 있습니다
-* BBTI별 도서를 읽은 비율을 차트로 확인할 수 있습니다.
-* 도서를 읽고 작성된 독서기록을 분석해 도서별 감정비율을 확인할 수 있습니다.
-* 도서별 독서기록을 조회할 수 있습니다.
-* 도서 상태를 변경할 수 있습니다.
-
-<div align="center">
-  <br />
-  <img src="https://github.com/choijehyuk/bookwave/assets/90392777/43a7bb83-15c8-4ffe-b2a5-f926ec46a41c" width="70%"/>
-  <br />
-</div>
-<br />
 
 
 ## 📝 프로젝트 산출물
-- [개발환경](https://educated-horn-9ae.notion.site/3ac2b33df4894c13b24cf91008340c02?pvs=4)
-- [요구사항 명세서](https://educated-horn-9ae.notion.site/2cec3b46bba041ebabdec4cba631ca0b?pvs=4)
-- [erd](./etc/Readme_images/erd.png)
-- [api 연동 규격서](https://educated-horn-9ae.notion.site/API-469f0df988754d3ea1766d74fd5bc0a4?pvs=4)
+- [개발환경](https://wandering-swan-9fa.notion.site/43a462ff4347423ea785941502ca333a?pvs=4)
+- [요구사항 명세서](https://wandering-swan-9fa.notion.site/e83234e536a3495594dd912e9fc82147?pvs=4)
+- [앱 erd](./img/app_erd.png)
+- [웹 erd](./img/wep_erd.png)
+- [api 연동 규격서](https://wandering-swan-9fa.notion.site/API-523be369856b4bbfb9a425ba2a324633?pvs=4)
 - [목업](./etc/Readme_images/목업.png)
-- [포팅메뉴얼](./exec/포팅%20메뉴얼%20bookwave.pdf)
-- [발표 자료](./etc/Docs/발표자료.pdf)
+- [포팅메뉴얼](./exec/희소식%20포팅매뉴얼.pdf)
+- [발표 자료](./exec/희소식%20최종발표.pdf)
