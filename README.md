@@ -11,7 +11,7 @@
 
 가족들과 연락 또는 주변 사람들에게 문자를 보내서 도움을 받고 싶을 때,
 
-모스부호나 구조요청를 통해 구조도움을 받고 싶을 때, 
+모스부호나 구조요청를 통해 구조 도움을 받고 싶을 때, 
 
 저희는 이와 같은 상황을 위해 “희소식” 서비스를 고안했습니다.
 </div>
@@ -57,7 +57,7 @@
 
 <div align="center">
   <br />
-  <img src="./etc/Readme_images/시스템아키텍처.png" width="80%"/>
+  <img src="./img/시스템아키텍처.png" width="80%"/>
   <br />
 </div>
 
@@ -69,12 +69,12 @@
 
 
 
+
 ## 📝 프로젝트 산출물
 - [개발환경](https://wandering-swan-9fa.notion.site/43a462ff4347423ea785941502ca333a?pvs=4)
 - [요구사항 명세서](https://wandering-swan-9fa.notion.site/e83234e536a3495594dd912e9fc82147?pvs=4)
 - [앱 erd](./img/app_erd.png)
 - [웹 erd](./img/wep_erd.png)
 - [api 연동 규격서](https://wandering-swan-9fa.notion.site/API-523be369856b4bbfb9a425ba2a324633?pvs=4)
-- [목업](./etc/Readme_images/목업.png)
 - [포팅메뉴얼](./exec/희소식%20포팅매뉴얼.pdf)
 - [발표 자료](./exec/희소식%20최종발표.pdf)
