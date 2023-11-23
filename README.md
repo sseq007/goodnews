@@ -459,6 +459,7 @@
  ┣ 📜gradlew.bat
  ┗ 📜settings.gradle.kts
 ```
+</details>
 <details>
 <summary>FE 폴더 구조</summary>
 
@@ -555,7 +556,7 @@
  ┃ ┣ 📜tailwind.config.js
  ┃ ┗ 📜tsconfig.json
 ```
-
+</details>
 <details>
 <summary>BE 폴더 구조</summary>
 
@@ -825,7 +826,11 @@
  ┃ ┣ 📜gradlew.bat
  ┃ ┗ 📜settings.gradle
 ```
-  
+</details>
+
+<br />
+
+
 ## 기술 스택
 
 | FrontEnd                | BackEnd            | Android            | DB           | CI/CD                     | 협업툴  |
