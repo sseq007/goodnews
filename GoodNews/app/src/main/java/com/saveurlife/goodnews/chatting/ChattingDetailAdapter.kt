@@ -101,4 +101,3 @@ class ChattingDetailAdapter(private var messages: List<ChatMessage>, private val
         notifyDataSetChanged()
     }
 }
-
